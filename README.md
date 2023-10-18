@@ -5,6 +5,4 @@ A simple browser based game built using JavaScript.
 You have to guess the number thhat has been randomly generated within the specified constraints, within the given number of chances.
 
 # Get Started
--By running `npm install`
-
--You can simply run the index.html file
+You can simply run the index.html file
