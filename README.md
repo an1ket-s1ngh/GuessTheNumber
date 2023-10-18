@@ -7,4 +7,4 @@ You have to guess the number thhat has been randomly generated within the specif
 # Get Started
 -By running `npm install`
 
--You can use Live Server on VS Code to simply run the index.html file
+-You can simply run the index.html file
